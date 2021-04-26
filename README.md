@@ -1,7 +1,7 @@
 # HandstoHelp
 # Introduction
 
-> <h3 align="center"> _"HandsToHelp(UniteToFight)"_ </h3>
+> <h1 align="center"> _"HandsToHelp(UniteToFight)"_ </h1>
 
 ✨**HandsToHelp**,our Project is entirely dedicated to provide instant help to needy people. Gone were days when people were waiting for vaccine but now they are dying due to crisis of beds, plasma and oxygen cylinder. We are creating a site where any person who needs bed,plasma or oxygen cylinder can check our website irrespective of any district or state.
 
